@@ -1,0 +1,8 @@
+C:\Users\Acer\OneDrive\Documentos\EstructuraDeDatos\jefe\jefe\obj\Debug\net8.0-windows\jefe.Form1.resources
+C:\Users\Acer\OneDrive\Documentos\EstructuraDeDatos\jefe\jefe\obj\Debug\net8.0-windows\jefe.csproj.GenerateResource.cache
+C:\Users\Acer\OneDrive\Documentos\EstructuraDeDatos\jefe\jefe\obj\Debug\net8.0-windows\jefe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\OneDrive\Documentos\EstructuraDeDatos\jefe\jefe\obj\Debug\net8.0-windows\jefe.AssemblyInfoInputs.cache
+C:\Users\Acer\OneDrive\Documentos\EstructuraDeDatos\jefe\jefe\obj\Debug\net8.0-windows\jefe.AssemblyInfo.cs
+C:\Users\Acer\OneDrive\Documentos\EstructuraDeDatos\jefe\jefe\obj\Debug\net8.0-windows\jefe.csproj.CoreCompileInputs.cache
+C:\Users\Acer\OneDrive\Documentos\EstructuraDeDatos\jefe\jefe\obj\Debug\net8.0-windows\jefe.sourcelink.json
+C:\Users\Acer\OneDrive\Documentos\EstructuraDeDatos\jefe\jefe\obj\Debug\net8.0-windows\Form1.resources
